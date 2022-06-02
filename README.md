@@ -1,5 +1,6 @@
 # ProjetoDevWeb
-Projeto desenvolvido para o a aula de Desenvolvimento Web
+Projeto desenvolvido para a aula de Desenvolvimento Web.
+Ideia principal: desenvolver um bate-papo online entre pessoas desconhecidas com o mesmo interese em comum.
 
 
 # Integrantes
